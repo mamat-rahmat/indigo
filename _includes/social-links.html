@@ -90,5 +90,16 @@
             <svg class="icon icon-stackoverflow"><use xlink:href="#icon-stackoverflow"></use></svg>
         </a>
     {% endif %}
-</div>
 
+    {% if site.projecteuler %}
+        <a class="link" data-title="projecteuler.net/profile/{{ site.projecteuler }}.png" href="https://projecteuler.net/profile/{{ site.projecteuler }}.png" target="_blank">
+            <img src="{{ site.url }}/assets/images/projecteuler.svg"></img></use>
+        </a>
+    {% endif %}
+
+    {% if site.wikipedia %}
+        <a class="link" data-title="https://id.wikipedia.org/wiki/User:{{ site.projecteuler }}" href="https://id.wikipedia.org/wiki/User:{{ site.projecteuler }}" target="_blank">
+            <img src="{{ site.url }}/assets/images/wikipedia.svg"></img></use>
+        </a>
+    {% endif %}
+</div>
