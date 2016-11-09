@@ -52,6 +52,7 @@ Deskipsi tugas lengkap dapat dilihat [disini](http://wikimedia-id.github.io/besu
    Repo dimana saya berkontribusi : [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
 
 4. **Buat akun dan halaman pengguna di Wikipedia ID dan sunting satu artikel**
+
    Meski sering menggunakan Wikipedia (termasuk Wikipedia Indonesia), sangat disayangkan saya belum pernah membuat akun dan berkontribusi. Tidak tanggung-tanggung, sekalian mencoba translation tool, saya menerjemahkan artikel Google Summer of Code (semoga jadi berkah lolos kesana. hehe)
 
    Halaman Pengguna Saya : [Coderbodoh](https://id.wikipedia.org/wiki/User:Coderbodoh)
@@ -59,11 +60,13 @@ Deskipsi tugas lengkap dapat dilihat [disini](http://wikimedia-id.github.io/besu
    Laman Wikipedia : [Google Summer of Code](https://id.wikipedia.org/wiki/Google_Summer_of_Code)
 
 5. **Buat akun di Stackoverflow dan raih badge apa pun**
+
    Stackoverflowing adalah keseharian saya, namun selama ini hanya menjadi silent reader dan tukang copas solusi (Hehe). Meraih badge sebenarnya cukup mudah. Dengan membaca guide atau dokumentasi pun, sudah mendapatkan badge. Kebetulan saya menemukan pertanyaan mengenai algoritma quicksort dan mencoba menjawab. Alhamdulillah diterima oleh penanya dan akhirnya saya mendapatkan total 4 badge.
 
    Profil Stackoverflow : [mamat-rahmat](http://stackoverflow.com/users/5411297/mamat-rahmat)
 
 6. **Tambahkan nama dan beberapa data ke daftar peserta ke peserta-universitas.md**
+
    Penambahan dilakukan dengan melakukan pull request terhadap [repo ini](https://github.com/BesutKode/BesutKode.github.io). Ini hanya finishing saja namun tetap harus berhati-hati dengan format penulisannya.
 
    Daftar Peserta : [peserta-universitas.md](https://besutkode.github.io/peserta-universitas.html)
