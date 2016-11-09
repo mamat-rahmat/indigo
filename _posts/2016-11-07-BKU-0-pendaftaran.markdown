@@ -35,30 +35,37 @@ Deskipsi tugas lengkap dapat dilihat [disini](http://wikimedia-id.github.io/besu
 
 1. **Buat akun di Project Euler dan selesaikan tiga soal**
 
-   Sebelumnya saya pernah mencoba beberapa soal disini namun tidak dilanjutkan. Akhirnya saya coba kerjakan kembali beberapa hingga menyelesaikan 40an soal. 
+   Sebelumnya saya pernah mencoba beberapa soal disini namun tidak dilanjutkan. Akhirnya saya coba kerjakan kembali beberapa hingga menyelesaikan 40an soal.
+
    Profil saya : [coderbodoh](https://projecteuler.net/profile/coderbodoh.png)
 
 2. **Buat Github dan Github Page**
 
    Sebelumnya saya pernah mencoba github page ini untuk mengetes fitur, namun tidak pernah diisi dengan serius. Karena halaman sederhana saja sudah cukup, saya akhirnya hanya menggunakan Github Page Generator untuk tugas ini. Sekarang halaman ini sudah saya isi blog menggunakan Jekyll.
-   Blog saya : <mamat-rahmat.github.io>
+
+   Blog saya : [mamat-rahmat.github.io](https://mamat-rahmat.github.io/)
 
 3. **Berkontribusi ke repo github yang memiliki bintang >= 50**
 
    Ini adalah bagian yang tersulit. Meski koreksi satu baris cukup, namun mencari koreksi yang bisa dilakukan cukup sulit. Setelah mencari sekian lama, akhirnya saya teringat akan repo Awesome Competitive Programming dan sejak lama berniat memasukkan beberapa awesome tool yang dibuat orang Indonesia. Setelah berdiskusi di Issue, akhirnya penambahan diterima dan Pull Request di merge. Alhamdulillah meski hanya repo berupa list, ini memenuhi.
+
    Repo dimana saya berkontribusi : [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
 
 4. **Buat akun dan halaman pengguna di Wikipedia ID dan sunting satu artikel**
    Meski sering menggunakan Wikipedia (termasuk Wikipedia Indonesia), sangat disayangkan saya belum pernah membuat akun dan berkontribusi. Tidak tanggung-tanggung, sekalian mencoba translation tool, saya menerjemahkan artikel Google Summer of Code (semoga jadi berkah lolos kesana. hehe)
+
    Halaman Pengguna Saya : [Coderbodoh](https://id.wikipedia.org/wiki/User:Coderbodoh)
+
    Laman Wikipedia : [Google Summer of Code](https://id.wikipedia.org/wiki/Google_Summer_of_Code)
 
 5. **Buat akun di Stackoverflow dan raih badge apa pun**
    Stackoverflowing adalah keseharian saya, namun selama ini hanya menjadi silent reader dan tukang copas solusi (Hehe). Meraih badge sebenarnya cukup mudah. Dengan membaca guide atau dokumentasi pun, sudah mendapatkan badge. Kebetulan saya menemukan pertanyaan mengenai algoritma quicksort dan mencoba menjawab. Alhamdulillah diterima oleh penanya dan akhirnya saya mendapatkan total 4 badge.
+
    Profil Stackoverflow : [mamat-rahmat](http://stackoverflow.com/users/5411297/mamat-rahmat)
 
 6. **Tambahkan nama dan beberapa data ke daftar peserta ke peserta-universitas.md**
    Penambahan dilakukan dengan melakukan pull request terhadap [repo ini](https://github.com/BesutKode/BesutKode.github.io). Ini hanya finishing saja namun tetap harus berhati-hati dengan format penulisannya.
+
    Daftar Peserta : [peserta-universitas.md](https://besutkode.github.io/peserta-universitas.html)
 
 Setelah melakukan Pull Request, penambahan di-*merge* dan secara resmi diterima. Jika ditolak, ada kesempatan sekali lagi untuk memperbaiki.
